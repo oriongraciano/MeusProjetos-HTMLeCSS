@@ -29,6 +29,11 @@
 
 body {
     background-color: var(--cor0);
+    background-image: url('https://wallpaper.mob.org.pt/image/reaktor-shar-skhemi-tekhnologii-3d-zelenii-91240.html');
+    background-position: center center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
     font-family: var(--Fontes-Padrao);
 }
 
